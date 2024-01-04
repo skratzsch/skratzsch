@@ -1,9 +1,5 @@
 # Hello my dear old Friend
 
-Nein Spass bei Seite, schön das ihr hier vorbei schaut. Ich freue mich schon auf die kommenden Wochen und das Thema rund um Webdevelopment. Um die ersten Übungen um Markdown und Github kennen zu lernen sieht ihr nun hier :\).
+Nein Spass bei Seite,ich bin ein leidenschaftlicher IT-Profi, der vor etwa 10 Jahren von der Systemtechnik in die Softwareentwicklung gewechselt ist. Meine Reise begann bei An der Lan Systems in München, wo ich meine ersten Schritte in der Softwareentwicklung machte. Später wechselte ich zu Fincon in Hamburg und arbeitete an der Entwicklung einer Cloud-basierten Lösung für Versicherungen. Mein nächstes Kapitel war bei Otto in Hamburg, wo ich als Softwareentwickler in zwei SCRUM agilen Teams für Kundenbuchhaltung und Payment Matching tätig war. Hier vertiefte ich meine Kenntnisse in einem breiten Tech-Stack, darunter AWS, GitHub, Java, verschiedene Datenbanken und viele weitere.
 
-- Toll wie man mit einem "-" eine Auflistung machen kann
-- "#" für Überschriften kannte ich so jetzt auch noch nicht, aber man lernt ja nie aus
-- "\[\]\(\)" um einen Link zu erstellen ist auch sehr hilfreich
-
-Dann probieren wir das gleich mal aus und klickt auf den Link [neueFische.de](https://www.neuefische.de) um dorthin zu gelangen.
+2023 entschied ich mich für ein Sabbatical, um frische Energie zu tanken und meinen Horizont zu erweitern. Jetzt, voller neuer Motivation und mit dem Ziel, meine Fähigkeiten zu vervollständigen, absolviere ich ein Front-End Bootcamp. Dieser Schritt unterstreicht mein Engagement für ständiges Lernen und meine Leidenschaft, am Puls der neuesten Technologien zu bleiben. Ich freue mich darauf, mein erweitertes Know-How in zukünftigen Projekten einzusetzen! [neueFische.de](https://www.neuefische.de).
